@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a JavaScript developer that focuses on front end using React library. The majority of my development projects I utilise the latest technologies such as Redux, TypeScript , Node and Serverless tech (AWS, Firebase). I am a motivated individual why seeks to utilise my engineering abilities and grow as a person and employee. My greatest assets are problem solving, communication and the ability to learn quickly.
+
+
+### You can find me on
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:romyagchenkov@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-mgh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ro-mgh/ro-mgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
