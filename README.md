@@ -1,6 +1,6 @@
 # Hi! I'm Roman 👋
 
-I am a JavaScript developer💻👨‍💻  that focuses on front end using React library. In the majority of my development projects, I utilise the latest technologies such as Redux, TypeScript, Node and Serverless tech (AWS, Firebase). I am a motivated individual who seeks to utilise their engineering abilities and grow as a person and employee. My greatest assets are problem solving, communication and the ability to learn quickly.
+I am a JavaScript developer💻👨‍💻  that focuses on front end using React library. In the majority of my development projects, I utilise the latest technologies such as Redux, TypeScript, Node and AWS. I am a motivated individual who seeks to utilise their engineering abilities and grow as a person and employee. My greatest assets are problem solving, communication and the ability to learn quickly.
 
 
 ### You can find me on
